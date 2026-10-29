@@ -10,4 +10,4 @@ The story follows PhD optical measurements, early GPU particle-scattering work u
 
 The HTML file is self-contained and can also be downloaded for offline viewing. It contains no speaker notes. The animations use teaching illustrations, not original project datasets or reported validation statistics.
 
-The title and final slides use the original logos from the official [Curtin University](https://www.curtin.edu.au/research/work-with-us/innovation-central-perth/) and [Innovation Central Perth](https://www.icentralau.com.au/perth/) websites. The logos remain their respective owners' trademarks.
+The title and final slides use the original logos from the official [Curtin University](https://www.curtin.edu.au/research/work-with-us/innovation-central-perth/), [Innovation Central Perth](https://www.icentralau.com.au/perth/) and [National Industry Innovation Network](https://niin.com.au/) websites. The logos remain their respective owners' trademarks.
